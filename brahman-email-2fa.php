@@ -1,8 +1,8 @@
 <?php
 /*
- * Plugin Name: Custom Email 2FA for WordPress by Brahman WebTech.
- * Plugin URI: https://bmwtech.in
- * Description: Custom Email 2FA for WordPress by Brahman WebTech.
+ * Plugin Name: Brahman Email 2FA for Admin Login.
+ * Plugin URI: https://learn.bmwtech.in
+ * Description: Brahman Email 2FA for Admin Login.
  * Version: 1.0.14
  * Requires at least: 5.5
  * Requires PHP: 8.0
